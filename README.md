@@ -1,2 +1,3 @@
-# 25395-nuget-source-maaping
-Reproduction for https://github.com/renovatebot/renovate/issues/25395
+# 25395-nuget-source-mapping
+
+Reproduction for <https://github.com/renovatebot/renovate/issues/25395>
