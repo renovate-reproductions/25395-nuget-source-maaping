@@ -4,9 +4,9 @@
     "net6.0": {
       "VisualOn.MimeMapping": {
         "type": "Direct",
-        "requested": "[3.0.1, )",
-        "resolved": "3.0.1",
-        "contentHash": "uuZlLNYwKorJd8eTfXjoBUppm87uA5wSw1P3UZLs07C7f8IR01DyTbO3pmoGGsLHXNtFOuw+S1HobaPPndecSw=="
+        "requested": "[3.0.2, )",
+        "resolved": "3.0.2",
+        "contentHash": "Gfnu4hHOkZNGCgaNMdnLSKLO/chV6MRQ8kmQAxsOzvDXPDZE5Zy3R8f+1Rhr4CL6//sTSDGOWJlcwzqIlIEWuA=="
       }
     }
   }
